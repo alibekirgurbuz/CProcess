@@ -1,0 +1,3 @@
+Child 1'in Sayısı: 42
+Child 2'nin Sayısı: 68
+Toplam: 110
